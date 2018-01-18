@@ -34,11 +34,12 @@
 5. Run the following command to start the flask applicaiton.
    ```
     python hello.py
-Sample output :
- * Running on http://0.0.0.0:8484/ (Press CTRL+C to quit)
- * Restarting with stat
- * Debugger is active!
- * Debugger PIN: 302-961-758
+    
+   Sample output :
+   * Running on http://0.0.0.0:8484/ (Press CTRL+C to quit)
+   * Restarting with stat
+   * Debugger is active!
+   * Debugger PIN: 302-961-758
    ```
 6. Screenshots of the running flask application uploaded with the names `app_1.png, app_2.png`. Please check.
 
