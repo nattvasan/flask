@@ -3,7 +3,7 @@
 2. In the launched instance, execute the following commands :
     ```
      apt-get update -y
-     apt-get upgarde -y
+     apt-get upgrade -y
     ```
 3. I have used python flask application on the two applicaton nodes. To install flask application, following commands need to be executed :
      ```
